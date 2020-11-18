@@ -1,6 +1,6 @@
 {
   "name": "react-native-loading-animation-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Loading Animation Image component for both Ios and Android",
   "main": "index.js",
   "scripts": {
