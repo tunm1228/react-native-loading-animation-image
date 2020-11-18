@@ -39,7 +39,7 @@ class App extends React.Component  {
 
 ## Props
 
-- **`visible`** _(Boolean)_ - Duration time to display message.
+- **`visible`** _(Boolean)_ - The visible prop determines whether your modal is visible.
 - **`source`** _(String)_  * `uri` is a string representing the resource identifier for the image, which
      * could be an http address, a local file path, or the name of a static image
      * resource (which should be wrapped in the `require('./path/to/image.png')`
