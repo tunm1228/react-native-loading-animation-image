@@ -35,7 +35,10 @@ class App extends React.Component  {
     }
 }
 ```
-
+```
+DEMO
+```
+![iOS](https://github.com/tunm1228/react-native-loading-animation-image/blob/main/ezgif-3-fbcb3a4e3883.gif)
 
 ## Props
 

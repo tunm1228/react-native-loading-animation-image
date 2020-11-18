@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
 	}
 });
 
-export default class LoadingAnimation extends React.PureComponent {
+class LoadingAnimation extends React.PureComponent {
 	static propTypes = {
         visible: PropTypes.bool.isRequired,
         source: PropTypes.bool.isRequired
@@ -118,4 +118,8 @@ export default class LoadingAnimation extends React.PureComponent {
 			</Modal>
 		);
 	}
+}
+
+export {
+	LoadingAnimation
 }
