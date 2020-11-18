@@ -1,0 +1,24 @@
+{
+  "name": "react-native-loading-animation-image",
+  "version": "1.0.0",
+  "description": "React Native Loading Animation Image component for both Ios and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunm1228/react-native-loading-animation-image.git"
+  },
+  "keywords": [
+    "react-native-loading",
+    "react-native-animation-loading",
+    "react-native-show-loading"
+  ],
+  "author": "tunm1228",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tunm1228/react-native-loading-animation-image/issues"
+  },
+  "homepage": "https://github.com/tunm1228/react-native-loading-animation-image#readme"
+}
